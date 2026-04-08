@@ -1,6 +1,6 @@
 # ESP32-S3 Audio Input Dock
 
-Welcome to the repository for my first-year hardware project, the **ESP32-S3 Audio Input Dock**. This project features custom PCB design, circuit integration, and on-device TinyML capabilities.
+Welcome to the  **ESP32-S3 Audio Input Dock**. This project features custom PCB design, circuit integration, and on-device TinyML capabilities.
 
 Developed by **Thesaru Praneeth**.
 
@@ -147,6 +147,8 @@ double_clap/
 ```
 
 > **Note:** The `lib/ESP32-S3-Clap-Sensor_inferencing/` folder contains the Arduino inferencing library exported from Edge Impulse. Extract the downloaded `.zip` and place the contents here. Do **not** commit the raw `.zip` file.
+
+There will be more trained words , Stay tuned.
 
 ---
 
